@@ -31,61 +31,61 @@
 
 Which IPL team is popularly known as **CSK**?
 
-**Answer:** `________________________`
+**Answer:** `_____Chennai Super Kings___________________`
 
 ### Question 2
 
 Which IPL team is associated with the **Eden Gardens**?
 
-**Answer:** `________________________`
+**Answer:** `_____Kolkata Knight Riders___________________`
 
 ### Question 3
 
 What is the home city of **Royal Challengers Bengaluru (RCB)**?
 
-**Answer:** `________________________`
+**Answer:** `_____Bengaluru___________________`
 
 ### Question 4
 
 Which team is represented by the **Whistle Podu Army** fan group?
 
-**Answer:** `________________________`
+**Answer:** `_____Chennai Super Kings___________________`
 
 ### Question 5
 
 Which IPL team has a **lion** as its prominent logo symbol?
 
-**Answer:** `________________________`
+**Answer:** `______Chennai Super Kings__________________`
 
 ### Question 6
 
 Which team is known as **MI**?
 
-**Answer:** `________________________`
+**Answer:** `_______Mumbai Indians_________________`
 
 ### Question 7
 
 What is the full form of **KKR**?
 
-**Answer:** `________________________`
+**Answer:** `______Kolkata Knight Riders__________________`
 
 ### Question 8
 
 Which IPL team represents **Hyderabad**?
 
-**Answer:** `________________________`
+**Answer:** `______Sunrisers Hyderabad__________________`
 
 ### Question 9
 
 Which team was formerly known as **Delhi Daredevils**?
 
-**Answer:** `________________________`
+**Answer:** `______Delhi Capitals__________________`
 
 ### Question 10
 
 Which IPL team is associated with the **pink colour**?
 
-**Answer:** `________________________`
+**Answer:** `_______rajasthan royals_________________`
 
 **Round Score: ____ / 10**
 
@@ -97,61 +97,61 @@ Which IPL team is associated with the **pink colour**?
 
 What is the real name of **Iron Man**?
 
-**Answer:** `________________________`
+**Answer:** `______Tony Stark__________________`
 
 ### Question 2
 
 What is Captain America's shield primarily made from?
 
-**Answer:** `________________________`
+**Answer:** `_______Vibranium_________________`
 
 ### Question 3
 
 What is Thor's famous hammer called?
 
-**Answer:** `________________________`
+**Answer:** `_______Mjolnir_________________`
 
 ### Question 4
 
 Who is known as the **God of Mischief** in Marvel?
 
-**Answer:** `________________________`
+**Answer:** `_______Loki_________________`
 
 ### Question 5
 
 What is Spider-Man's real name?
 
-**Answer:** `________________________`
+**Answer:** `______Peter Parker__________________`
 
 ### Question 6
 
 Which Infinity Stone is associated with **Doctor Strange's Eye of Agamotto**?
 
-**Answer:** `________________________`
+**Answer:** `_______Timestone_________________`
 
 ### Question 7
 
 What is the name of Black Panther's fictional country?
 
-**Answer:** `________________________`
+**Answer:** `_______Wakanda_________________`
 
 ### Question 8
 
 In the MCU, which two characters created **Ultron**?
 
-**Answer:** `________________________`
+**Answer:** `_____Tony Stark_and Bruce Banner__________________`
 
 ### Question 9
 
 What is the name of Thor's sister introduced in *Thor: Ragnarok*?
 
-**Answer:** `________________________`
+**Answer:** `_________Hela_______________`
 
 ### Question 10
 
 What is the name of the organization led by **Nick Fury**?
 
-**Answer:** `________________________`
+**Answer:** `______S.H.I.E.L.D__________________`
 
 **Round Score: ____ / 10**
 
@@ -163,61 +163,61 @@ What is the name of the organization led by **Nick Fury**?
 
 In *Harry Potter*, what is the name of Harry's owl?
 
-**Answer:** `________________________`
+**Answer:** `______Hedwig__________________`
 
 ### Question 2
 
 In *The Lion King*, what is Simba's father's name?
 
-**Answer:** `________________________`
+**Answer:** `______Mufasa__________________`
 
 ### Question 3
 
 Which movie features the quote **"May the Force be with you"**?
 
-**Answer:** `________________________`
+**Answer:** `_______Star Wars_________________`
 
 ### Question 4
 
 What is the name of the fictional country in *Black Panther*?
 
-**Answer:** `________________________`
+**Answer:** `________Wakanda________________`
 
 ### Question 5
 
 In *Finding Nemo*, what type of fish is Nemo?
 
-**Answer:** `________________________`
+**Answer:** `________Clownfish________________`
 
 ### Question 6
 
 Who directed *Titanic*?
 
-**Answer:** `________________________`
+**Answer:** `________James Cameron________________`
 
 ### Question 7
 
 In *The Matrix*, what colour pill does Neo take?
 
-**Answer:** `________________________`
+**Answer:** `________Red________________`
 
 ### Question 8
 
 Which movie features the characters **Woody and Buzz Lightyear**?
 
-**Answer:** `________________________`
+**Answer:** `________Toy Story________________`
 
 ### Question 9
 
 In *Kung Fu Panda*, what animal is Po?
 
-**Answer:** `________________________`
+**Answer:** `_______Panda_________________`
 
 ### Question 10
 
 What is the name of the school attended by Harry Potter?
 
-**Answer:** `________________________`
+**Answer:** `________Hogwarts________________`
 
 **Round Score: ____ / 10**
 
